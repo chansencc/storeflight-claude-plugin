@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "storeflight",
+  "description": "Claude Code plugins for Storeflight, the Mac app that tells you what blocks your next App Store release.",
+  "owner": {
+    "name": "Christian Hansen"
+  },
+  "plugins": [
+    {
+      "name": "storeflight",
+      "description": "Check an app's next App Store release with Storeflight and fix what blocks it. Needs the Storeflight Mac app.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Christian Hansen"
+      },
+      "source": "./plugins/storeflight",
+      "category": "development",
+      "homepage": "https://github.com/chansencc/storeflight-claude-plugin",
+      "keywords": ["app-store", "app-store-connect", "ios", "macos", "release", "mcp"]
+    }
+  ]
+}

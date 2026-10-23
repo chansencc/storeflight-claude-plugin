@@ -1,0 +1,18 @@
+{
+  "name": "storeflight",
+  "version": "1.0.0",
+  "description": "Check an app's next App Store release with Storeflight and fix what blocks it. Needs the Storeflight Mac app.",
+  "author": {
+    "name": "Christian Hansen"
+  },
+  "homepage": "https://github.com/chansencc/storeflight-claude-plugin",
+  "repository": "https://github.com/chansencc/storeflight-claude-plugin",
+  "keywords": [
+    "app-store",
+    "app-store-connect",
+    "ios",
+    "macos",
+    "release",
+    "mcp"
+  ]
+}

@@ -1,0 +1,2 @@
+# Keep skills tracked even when a global gitignore leaves SKILL.md out.
+!SKILL.md
